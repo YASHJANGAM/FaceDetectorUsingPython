@@ -1,1 +1,1 @@
-This Face Detector Application Using Python and OpenCV .
+This Face Detector Application Using Python and OpenCV . The Haarcascade_Frontalface_default.xml file is used because it contains a pre-trained Haar Cascade classifier specifically designed for detecting frontal human faces. Integrating this XML file into applications, particularly with libraries like OpenCV, is straightforward. It requires minimal code to load the classifier and apply it for face detection.
